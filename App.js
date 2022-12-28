@@ -1,7 +1,7 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { StyleSheet, Text, View } from "react-native";
 // import { Button, StyleSheet, Text, View, Alert, TouchableOpacity } from 'react-native';
-import Counters from './Counters';
+import Counters from "./Counters";
 // import ImagesFile from './ImagesFile';
 // import UsingFlatList from './UsingFlatList';
 
@@ -24,10 +24,10 @@ const styles = StyleSheet.create({
   container: {
     paddingVertical: 45,
     flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
+    alignItems: "center",
+    justifyContent: "center",
   },
   textContainer: {
-    fontSize: 20
+    fontSize: 21,
   },
 });
