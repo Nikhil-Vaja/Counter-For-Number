@@ -13,8 +13,8 @@ export default function App() {
       <TouchableOpacity onPress={() => {Alert.alert(`You Press TouchableOpacity!`)}}>
         <Text style={{color: 'black ', margin: 10}} >Try Me!</Text>
       </TouchableOpacity> */}
-      <Counters />
-      {/* <UsingFlatList /> */}
+      {/* <Counters /> */}
+      <UsingFlatList />
       {/* <ImagesFile /> */}
     </View>
   );
